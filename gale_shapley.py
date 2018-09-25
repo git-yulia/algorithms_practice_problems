@@ -43,15 +43,15 @@ class Girl():
         self.partner = partner
         self.isEngaged = True
 
-b1 = Boy("Johnny", [0,1,3,2])
-b2 = Boy("Jesse",  [1,2,3,0])
-b3 = Boy("Thomas", [3,0,2,1])
-b4 = Boy("Connor", [3,2,1,0])
+b1 = Boy("J1", [0,1,3,2])
+b2 = Boy("J2",  [1,2,3,0])
+b3 = Boy("T", [3,0,2,1])
+b4 = Boy("C", [3,2,1,0])
 
-g1 = Girl("Yulia",    [0,1,3,2])
-g2 = Girl("Kelly",    [1,0,2,3])
-g3 = Girl("Margaret", [0,1,3,2])
-g4 = Girl("Avery",    [0,2,3,1])
+g1 = Girl("Y",    [0,1,3,2])
+g2 = Girl("K",    [1,0,2,3])
+g3 = Girl("M", [0,1,3,2])
+g4 = Girl("A",    [0,2,3,1])
 
 B = [b1, b2, b3, b4]
 G = [g1, g2, g3, g4]
